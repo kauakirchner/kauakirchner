@@ -1,5 +1,5 @@
-<h1>Oii, Meu nome</h1>
-<br>
+<h1>Oii, Meu nome é Kauã Kirchner De Souza</h1>
+<hr>
 Estou começando a estudar desenvolvimento web
 <br>
 Sou novo por aqui
