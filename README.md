@@ -1,4 +1,4 @@
-<h1>Oii, Meu nome é Kauã Kirchner De Souza</h1>
+<h1>Meu nome é Kauã Kirchner De Souza</h1>
 <hr>
 Estou começando a estudar desenvolvimento web
 <br>
