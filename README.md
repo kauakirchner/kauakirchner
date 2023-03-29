@@ -5,9 +5,9 @@ Desde então, tenho me dedicado para web, tenho conhecimento em front-end com fo
 
 Back-end com foco em Python, Flask, MongoDb, PostgreSQL, Firebase, GCP (Google Cloud Plataform) e GoogleAPI'S.
 
-Tenho muita curiosidade em aprender coisas novas, técnicas ou não. Gosto de desafios e de trazer soluções com criatividade, visando reusabilidade de código, boas práticas e organização.
+Como objetivo, seguir me especializando nestas tecnologias e aprender sobre Arquitetura de Software, Microsserviços, SOLID e Design Patterns.
 
-Como objetivo para um futuro próximo, aprender sobre arquitetura de software e microserviços.
+Tenho muita curiosidade em aprender coisas novas, técnicas ou não. Gosto de desafios e de trazer soluções com criatividade, visando reusabilidade de código, boas práticas e organização.
 <br><br>
 
 
