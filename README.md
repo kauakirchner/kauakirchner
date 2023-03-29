@@ -1,7 +1,14 @@
 # 💫 About me:
-Sou um estudante do primeiro ano de Engenharia de Software que há dois anos atrás despertou um grande por desenvolvimento de software. Desde então tenho direcionado meus estudos para web, com foco em JavaScript, VueJs, ReactJs, Python e Flask.
-Possuo conhecimentos também em TailwindCss, Styled-Components, Vuetify, Vuex, Redux, MongoDB, Firebase e PostgreSQL. 
-Neste tempo de estudo desenvolvi boa lógica de programação, capacidade de reproduzir layouts visando boa acessibilidade e usabilidade. Sou muito curioso e proativo, principalmente quando se trata de novos desafios ou aprendizados, trocar compartilhar e adquirir conhecimentos com outras pessoas. Fique a vontade para dar uma olhada em meus repositórios.<br><br>
+Sou um estudante do primeiro semestre de Engenharia de Software que sempre foi apaixonado por tecnologia. Dois atrás despertei um grande interesse na área de desenvolvimento de software. 
+
+Desde então, tenho me dedicado para web, tenho conhecimento em front-end com foco em Javascript, Vuejs, React, Vue-Test-Utils, Jest, Cypress, Vuex, Vuetify, Material UI, Tailwind Css, Styled-Components, e Redux.
+
+Back-end com foco em Python, Flask, MongoDb, PostgreSQL, Firebase, GCP (Google Cloud Plataform) e GoogleAPI'S.
+
+Tenho muita curiosidade em aprender coisas novas, técnicas ou não. Gosto de desafios e de trazer soluções com criatividade, visando reusabilidade de código, boas práticas e organização.
+
+Como objetivo para um futuro próximo, aprender sobre arquitetura de software e microserviços.
+<br><br>
 
 
 ## 🌐 Socials:
