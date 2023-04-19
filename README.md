@@ -1,13 +1,12 @@
 # 💫 About me:
-Sou um estudante do primeiro semestre de Engenharia de Software que sempre foi apaixonado por tecnologia. Dois atrás despertei um grande interesse na área de desenvolvimento de software. 
+Studying a Bachelor's Degree in Software Engineering, I've always been passionate about technology.
 
-Desde então, tenho me dedicado para web, tenho conhecimento em front-end com foco em Javascript, Vuejs, React, Vue-Test-Utils, Jest, Cypress, Vuex, Vuetify, Material UI, Tailwind Css, Styled-Components, e Redux.
+Since July 2022, I've been working as a full-stack developer, delivering solutions for hundreds of users focused on environmental services and the Google Workspace/Google Cloud environment. With a focus on creativity, usability, organization, and code quality.
 
-Back-end com foco em Python, Flask, MongoDb, PostgreSQL, Firebase, GCP (Google Cloud Plataform) e GoogleAPI'S.
+I have knowledge in front-end development with a focus on Javascript (Vue.js, React).
+On the back-end, I specialize in Python (Flask), Firebase, GCP (Google Cloud Platform), and Google APIs.
 
-Como objetivo, seguir me especializando nestas tecnologias e aprender sobre Arquitetura de Software, Microsserviços, SOLID e Design Patterns.
-
-Tenho muita curiosidade em aprender coisas novas, técnicas ou não. Gosto de desafios e de trazer soluções com criatividade, visando reusabilidade de código, boas práticas e organização.
+My goal is to specialize in Software Architecture, Microservices, SOLID, and Design Patterns.
 <br><br>
 
 
