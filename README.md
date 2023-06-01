@@ -3,7 +3,7 @@ Studying a Bachelor's Degree in Software Engineering, I've always been passionat
 
 Since July 2022, I've been working as a full-stack developer, delivering solutions for hundreds of users focused on environmental services and the Google Workspace/Google Cloud environment. With a focus on creativity, usability, organization, and code quality.
 
-I have knowledge in front-end development with a focus on Javascript (Vue.js, React).
+I have knowledge in front-end development with a focus on Typescript and Javascript (Vue.js, React).
 On the back-end, I specialize in Python (Flask), Firebase, GCP (Google Cloud Platform), and Google APIs.
 
 My goal is to specialize in Software Architecture, Microservices, SOLID, and Design Patterns.
