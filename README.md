@@ -4,7 +4,7 @@ Software Engineer with over 1 year of experience delivering solutions to thousan
 I've always been curious, adaptable, proactive, and eager to learn new things to take on new challenges.
 My strong teamwork and communication skills, allows me to collaborate effectively with colleagues and contribute positively to the overall project dynamics.
 
-My academic background includes:
+My academic background includes: <br>
 • Bachelor's degree in Computer Science from Universidade do Sul de Santa Catarina (in progress).
 <br><br>
 
