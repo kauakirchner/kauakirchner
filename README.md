@@ -1,5 +1,5 @@
 # 💫 About me:
-Software Engineer with over 1 year of experience delivering solutions to thousands of users in the fields of Environmental Services, E-commerces and Marketplaces.
+Software Engineer with over 1 year of experience delivering robust solutions to diverse industries including Environmental Services, E-commerce, and Marketplaces. Demonstrated ability to create impactful software solutions utilized by thousands of users.
 
 I've always been curious, adaptable, proactive, and eager to learn new things to take on new challenges.
 My strong teamwork and communication skills, allows me to collaborate effectively with colleagues and contribute positively to the overall project dynamics.
