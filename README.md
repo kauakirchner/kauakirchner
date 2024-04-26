@@ -1,10 +1,10 @@
 # 💫 About me:
-Software Engineer with over 1 year of experience delivering robust solutions to diverse industries including Environmental Services, E-commerce, and Marketplaces. Demonstrated ability to create impactful software solutions utilized by thousands of users.
+Software Engineer with experience in delivering robust solutions to diverse industries including Environmental Services, E-commerce, and Marketplaces. Demonstrated ability to create impactful software solutions utilized by thousands of users.
 
 I've always been curious, adaptable, proactive, and eager to learn new things to take on new challenges.
 My strong teamwork and communication skills, allows me to collaborate effectively with colleagues and contribute positively to the overall project dynamics.
 
-My academic background includes: <br>
+My academic background includes:
 • Bachelor's degree in Computer Science from Universidade do Sul de Santa Catarina (in progress).
 <br><br>
 
