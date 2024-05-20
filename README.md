@@ -1,4 +1,3 @@
-# 💫 About me:
 I'm a Brazilian Software Engineer with extensive experience in delivering robust and scalable solutions (with a focus on SaaS) that impact thousands of users in multiple industries, including Environmental Services, Google Cloud, E-commerce, and Marketplaces. Proficient in Python, Flask, JavaScript, Typescript, Node.js, React and Vue.js.
 
 I've always been curious, adaptable, proactive, and eager to learn new things to take on new challenges.
