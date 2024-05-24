@@ -14,7 +14,7 @@ Adept at teamwork and collaborating to ship high quality code.
   <li>Creating Package-Based and Subscription-Based services</li>
 </ul>
 
-My academic background includes:
+My academic background includes: <br>
 • Bachelor's degree in Computer Science from Universidade do Sul de Santa Catarina (in progress).
 <br><br>
 
